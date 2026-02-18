@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  color: rgb(36, 134, 126);
+  font-family: "Google Sans", sans-serif;
+  font-weight: 100;
+}
+h1 {
+  text-align: center;
+  background-color: blueviolet;
+  color: aquamarine;
+  border-radius: 10px;
+  -webkit-text-stroke: 1px green;
+}
+h2 {
+  color: white;
+  background-color: rgb(22, 63, 124);
+}
+h3 {
+  color: white;
+  background-color: rgb(22, 63, 124);
+  width: 100%;
+  margin: 0px auto;
+  padding-top: 1px;
+  border-radius: 15px;
+  border-left: 5px solid orangered;
+  border-bottom: 2px dotted orangered;
+  box-shadow: 3px 3px 7px yellow;
+}
+
+h4 {
+  color: orange;
+}
+hr {
+  width: 60%;
+  border: 1px solid yellow;
+}
+audio {
+  width: 100%;
+  box-shadow: 5px -5px 10px yellow;
+  border-radius: 25px;
+}
+img {
+  box-shadow: 3px 3px 7px yellow;
+}
+video {
+  box-shadow: 3px 3px 7px yellow;
+}
+iframe {
+  box-shadow: 3px 3px 7px yellow;
+}
